@@ -1,0 +1,2 @@
+langchain == 0.0.225
+ctransformers ==0.2.5
